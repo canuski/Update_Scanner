@@ -1,0 +1,1 @@
+python E:\Projects\Update_Scanner\scanner.py
